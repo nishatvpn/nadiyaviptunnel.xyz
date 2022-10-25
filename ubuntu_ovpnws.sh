@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='82.223.165.66';
-USER='asdfghj_nadiya';
-PASS='asdfghj_nadiya';
-DBNAME='asdfghj_nadiya';
+HOST='192.64.87.141';
+USER='mokimvpn_nadiya';
+PASS='mokimvpn_nadiya';
+DBNAME='mokimvpn_nadiya';
 
 install_require()
 {
